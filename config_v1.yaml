@@ -1,0 +1,443 @@
+# 币安现货上新
+map_high_a: 500000000 # 高市值
+map_medium_a: 200000000 # 中市值
+map_low_a: 20000000 # 低市值
+# 币安没有这个币
+# OK
+ok_number_a_high: 10  # 高市值币安不存在，代币总数小于等于1
+ok_slip_a_high: 0.3  # 高市值币安不存在，代币总数小于等于1
+ok_number_b_high: 20  # 高市值币安不存在，代币总数大于1
+ok_slip_b_high: 0.4  # 高市值币安不存在，代币总数大于1
+ok_number_a_medium: 14  # 中市值币安不存在，代币总数小于等于1
+ok_slip_a_medium: 0.31  # 中市值币安不存在，代币总数小于等于1
+ok_number_b_medium: 24  # 中市值币安不存在，代币总数大于1
+ok_slip_b_medium: 0.41  # 中市值币安不存在，代币总数大于1
+ok_number_a_low: 18  # 低市值币安不存在，代币总数小于等于1
+ok_slip_a_low: 0.32  # 低市值币安不存在，代币总数小于等于1
+ok_number_b_low: 28  # 低市值币安不存在，代币总数大于1
+ok_slip_b_low: 0.42  # 低市值币安不存在，代币总数大于1
+# 备
+ok_number_a_1_high: 30  # 高市值币安不存在，代币总数小于等于1
+ok_slip_a_1_high: 0.5  # 高市值币安不存在，代币总数小于等于1
+ok_number_b_1_high: 40  # 高市值币安不存在，代币总数大于1
+ok_slip_b_1_high: 0.6  # 高市值币安不存在，代币总数大于1
+ok_number_a_1_medium: 34  # 中市值币安不存在，代币总数小于等于1
+ok_slip_a_1_medium: 0.51  # 中市值币安不存在，代币总数小于等于1
+ok_number_b_1_medium: 44  # 中市值币安不存在，代币总数大于1
+ok_slip_b_1_medium: 0.61  # 中市值币安不存在，代币总数大于1
+ok_number_a_1_low: 38  # 低市值币安不存在，代币总数小于等于1
+ok_slip_a_1_low: 0.52  # 低市值币安不存在，代币总数小于等于1
+ok_number_b_1_low: 48  # 低市值币安不存在，代币总数大于1
+ok_slip_b_1_low: 0.62  # 低市值币安不存在，代币总数大于1
+# bybit
+bybit_number_a_high: 50  # 高市值币安不存在，代币总数小于等于1
+bybit_slip_a_high: 0.7  # 高市值币安不存在，代币总数小于等于1
+bybit_number_b_high: 60  # 高市值币安不存在，代币总数大于1
+bybit_slip_b_high: 0.8  # 高市值币安不存在，代币总数大于1
+bybit_number_a_medium: 54  # 中市值币安不存在，代币总数小于等于1
+bybit_slip_a_medium: 0.71  # 中市值币安不存在，代币总数小于等于1
+bybit_number_b_medium: 64  # 中市值币安不存在，代币总数大于1
+bybit_slip_b_medium: 0.81  # 中市值币安不存在，代币总数大于1
+bybit_number_a_low: 58  # 低市值币安不存在，代币总数小于等于1
+bybit_slip_a_low: 0.72  # 低市值币安不存在，代币总数小于等于1
+bybit_number_b_low: 68  # 低市值币安不存在，代币总数大于1
+bybit_slip_b_low: 0.82  # 低市值币安不存在，代币总数大于1
+# GATE
+gate_number_a_high: 70  # 高市值币安不存在，代币总数小于等于1
+gate_slip_a_high: 0.9  # 高市值币安不存在，代币总数小于等于1
+gate_number_b_high: 80  # 高市值币安不存在，代币总数大于1
+gate_slip_b_high: 0.35  # 高市值币安不存在，代币总数大于1
+gate_number_a_medium: 74  # 中市值市值币安不存在，代币总数小于等于1
+gate_slip_a_medium: 0.91  # 中市值市值币安不存在，代币总数小于等于1
+gate_number_b_medium: 84  # 中市值市值币安不存在，代币总数大于1
+gate_slip_b_medium: 0.36  # 中市值市值币安不存在，代币总数大于1
+gate_number_a_low: 78  # 低市值市值币安不存在，代币总数小于等于1
+gate_slip_a_low: 0.92  # 低市值市值币安不存在，代币总数小于等于1
+gate_number_b_low: 88  # 低市值市值币安不存在，代币总数大于1
+gate_slip_b_low: 0.37  # 低市值市值币安不存在，代币总数大于1
+# OKX永续合约
+okx_contract_number_a_high: 90  # 高市值币安不存在，代币总数小于等于1
+okx_contract_slip_a_high: 0.45  # 高市值币安不存在，代币总数小于等于1
+okx_contract_number_b_high: 100  # 高市值币安不存在，代币总数大于1
+okx_contract_slip_b_high: 0.55  # 高市值币安不存在，代币总数大于1
+okx_contract_number_a_medium: 94  # 中市值币安不存在，代币总数小于等于1
+okx_contract_slip_a_medium: 0.46  # 中市值币安不存在，代币总数小于等于1
+okx_contract_number_b_medium: 104  # 中市值币安不存在，代币总数大于1
+okx_contract_slip_b_medium: 0.56  # 中市值币安不存在，代币总数大于1
+okx_contract_number_a_low: 98  # 低市值币安不存在，代币总数小于等于1
+okx_contract_slip_a_low: 0.47  # 低市值币安不存在，代币总数小于等于1
+okx_contract_number_b_low: 108  # 低市值币安不存在，代币总数大于1
+okx_contract_slip_b_low: 0.57  # 低市值币安不存在，代币总数大于1
+# 备
+okx_contract_number_a_1_high: 110  # 高市值币安不存在，代币总数小于等于1
+okx_contract_slip_a_1_high: 0.65  # 高市值币安不存在，代币总数小于等于1
+okx_contract_number_b_1_high: 120  # 高市值币安不存在，代币总数大于1
+okx_contract_slip_b_1_high: 0.75  # 高市值币安不存在，代币总数大于1
+okx_contract_number_a_1_medium: 114  # 中市值币安不存在，代币总数小于等于1
+okx_contract_slip_a_1_medium: 0.66  # 中市值币安不存在，代币总数小于等于1
+okx_contract_number_b_1_medium: 124  # 中市值币安不存在，代币总数大于1
+okx_contract_slip_b_1_medium: 0.76  # 中市值币安不存在，代币总数大于1
+okx_contract_number_a_1_low: 118  # 低市值币安不存在，代币总数小于等于1
+okx_contract_slip_a_1_low: 0.67  # 低市值币安不存在，代币总数小于等于1
+okx_contract_number_b_1_low: 128  # 低市值币安不存在，代币总数大于1
+okx_contract_slip_b_1_low: 0.77  # 低市值币安不存在，代币总数大于1
+# BYBIT永续合约
+bybit_contract_number_a_high: 130  # 高市值币安不存在，代币总数小于等于1
+bybit_contract_slip_a_high: 0.85  # 高市值币安不存在，代币总数小于等于1
+bybit_contract_number_b_high: 140  # 高市值币安不存在，代币总数大于1
+bybit_contract_slip_b_high: 0.95  # 高市值币安不存在，代币总数大于1
+bybit_contract_number_a_medium: 134  # 中市值币安不存在，代币总数小于等于1
+bybit_contract_slip_a_medium: 0.86  # 中市值币安不存在，代币总数小于等于1
+bybit_contract_number_b_medium: 144  # 中市值币安不存在，代币总数大于1
+bybit_contract_slip_b_medium: 0.96  # 中市值币安不存在，代币总数大于1
+bybit_contract_number_a_low: 138  # 低市值币安不存在，代币总数小于等于1
+bybit_contract_slip_a_low: 0.87  # 低市值币安不存在，代币总数小于等于1
+bybit_contract_number_b_low: 148  # 低市值币安不存在，代币总数大于1
+bybit_contract_slip_b_low: 0.97  # 低市值币安不存在，代币总数大于1
+
+
+
+# 币安永续合约上新
+# 币安有这个币
+map_high_b: 0 # 高市值
+map_medium_b: 0 # 中市值
+map_low_b: 0 # 低市值
+# 币安
+binance_number_a_high: 0  # 高市值币安存在，代币总数小于等于1
+binance_slip_a_high: 0  # 高市值币安存在，代币总数小于等于1
+binance_number_b_high: 0  # 高市值币安存在，代币总数大于1
+binance_slip_b_high: 0  # 高市值币安存在，代币总数大于1
+binance_number_a_medium: 0  # 中市值币安存在，代币总数小于等于1
+binance_slip_a_medium: 0  # 中市值币安存在，代币总数小于等于1
+binance_number_b_medium: 0  # 中市值币安存在，代币总数大于1
+binance_slip_b_medium: 0  # 中市值币安存在，代币总数大于1
+binance_number_a_low: 0  # 低市值币安存在，代币总数小于等于1
+binance_slip_a_low: 0  # 低市值币安存在，代币总数小于等于1
+binance_number_b_low: 0  # 低市值币安存在，代币总数大于1
+binance_slip_b_low: 0  # 低市值币安存在，代币总数大于1
+# 币安没有这个币
+map_high_c: 0 # 高市值
+map_medium_c: 0 # 中市值
+map_low_c: 0 # 低市值
+# OK
+ok_number_c_high: 0  # 高市值币安不存在，代币总数小于等于1
+ok_slip_c_high: 0  # 高市值币安不存在，代币总数小于等于1
+ok_number_d_high: 0  # 高市值币安不存在，代币总数大于1
+ok_slip_d_high: 0  # 高市值币安不存在，代币总数大于1
+ok_number_c_medium: 0  # 中市值币安不存在，代币总数小于等于1
+ok_slip_c_medium: 0  # 中市值币安不存在，代币总数小于等于1
+ok_number_d_medium: 0  # 中市值币安不存在，代币总数大于1
+ok_slip_d_medium: 0  # 中市值币安不存在，代币总数大于1
+ok_number_c_low: 0  # 低市值币安不存在，代币总数小于等于1
+ok_slip_c_low: 0  # 低市值币安不存在，代币总数小于等于1
+ok_number_d_low: 0  # 低市值币安不存在，代币总数大于1
+ok_slip_d_low: 0  # 低市值币安不存在，代币总数大于1
+# 备
+ok_number_c_1_high: 0  # 高市值币安不存在，代币总数小于等于1
+ok_slip_c_1_high: 0  # 高市值币安不存在，代币总数小于等于1
+ok_number_d_1_high: 0  # 高市值币安不存在，代币总数大于1
+ok_slip_d_1_high: 0  # 高市值币安不存在，代币总数大于1
+ok_number_c_1_medium: 0  # 中市值币安不存在，代币总数小于等于1
+ok_slip_c_1_medium: 0  # 中市值币安不存在，代币总数小于等于1
+ok_number_d_1_medium: 0  # 中市值币安不存在，代币总数大于1
+ok_slip_d_1_medium: 0  # 中市值币安不存在，代币总数大于1
+ok_number_c_1_low: 0  # 低市值币安不存在，代币总数小于等于1
+ok_slip_c_1_low: 0  # 低市值币安不存在，代币总数小于等于1
+ok_number_d_1_low: 0  # 低市值币安不存在，代币总数大于1
+ok_slip_d_1_low: 0  # 低市值币安不存在，代币总数大于1
+# bybit
+bybit_number_c_high: 0  # 高市值币安不存在，代币总数小于等于1
+bybit_slip_c_high: 0  # 高市值币安不存在，代币总数小于等于1
+bybit_number_d_high: 0  # 高市值币安不存在，代币总数大于1
+bybit_slip_d_high: 0  # 高市值币安不存在，代币总数大于1
+bybit_number_c_medium: 0  # 中市值币安不存在，代币总数小于等于1
+bybit_slip_c_medium: 0  # 中市值币安不存在，代币总数小于等于1
+bybit_number_d_medium: 0  # 中市值币安不存在，代币总数大于1
+bybit_slip_d_medium: 0  # 中市值币安不存在，代币总数大于1
+bybit_number_c_low: 0  # 低市值币安不存在，代币总数小于等于1
+bybit_slip_c_low: 0  # 低市值币安不存在，代币总数小于等于1
+bybit_number_d_low: 0  # 低市值币安不存在，代币总数大于1
+bybit_slip_d_low: 0  # 低市值币安不存在，代币总数大于1
+# GATE
+gate_number_c_high: 0  # 高市值币安不存在，代币总数小于等于1
+gate_slip_c_high: 0  # 高市值币安不存在，代币总数小于等于1
+gate_number_d_high: 0  # 高市值币安不存在，代币总数大于1
+gate_slip_d_high: 0  # 高市值币安不存在，代币总数大于1
+gate_number_c_medium: 0  # 中市值币安不存在，代币总数小于等于1
+gate_slip_c_medium: 0  # 中市值币安不存在，代币总数小于等于1
+gate_number_d_medium: 0  # 中市值币安不存在，代币总数大于1
+gate_slip_d_medium: 0  # 中市值币安不存在，代币总数大于1
+gate_number_c_low: 0  # 低市值币安不存在，代币总数小于等于1
+gate_slip_c_low: 0  # 低市值币安不存在，代币总数小于等于1
+gate_number_d_low: 0  # 低市值币安不存在，代币总数大于1
+gate_slip_d_low: 0  # 低市值币安不存在，代币总数大于1
+# OKX永续合约
+okx_contract_number_c_high: 0  # 高市值币安不存在，代币总数小于等于1
+okx_contract_slip_c_high: 0  # 高市值币安不存在，代币总数小于等于1
+okx_contract_number_d_high: 0  # 高市值币安不存在，代币总数大于1
+okx_contract_slip_d_high: 0  # 高市值币安不存在，代币总数大于1
+okx_contract_number_c_medium: 0  # 中市值币安不存在，代币总数小于等于1
+okx_contract_slip_c_medium: 0  # 中市值币安不存在，代币总数小于等于1
+okx_contract_number_d_medium: 0  # 中市值币安不存在，代币总数大于1
+okx_contract_slip_d_medium: 0  # 中市值币安不存在，代币总数大于1
+okx_contract_number_c_low: 0  # 低市值币安不存在，代币总数小于等于1
+okx_contract_slip_c_low: 0  # 低市值币安不存在，代币总数小于等于1
+okx_contract_number_d_low: 0  # 低市值币安不存在，代币总数大于1
+okx_contract_slip_d_low: 0  # 低市值币安不存在，代币总数大于1
+# 备
+okx_contract_number_c_1_high: 0  # 高市值币安不存在，代币总数小于等于1
+okx_contract_slip_c_1_high: 0  # 高市值币安不存在，代币总数小于等于1
+okx_contract_number_d_1_high: 0  # 高市值币安不存在，代币总数大于1
+okx_contract_slip_d_1_high: 0  # 高市值币安不存在，代币总数大于1
+okx_contract_number_c_1_medium: 0  # 中市值币安不存在，代币总数小于等于1
+okx_contract_slip_c_1_medium: 0  # 中市值币安不存在，代币总数小于等于1
+okx_contract_number_d_1_medium: 0  # 中市值币安不存在，代币总数大于1
+okx_contract_slip_d_1_medium: 0  # 中市值币安不存在，代币总数大于1
+okx_contract_number_c_1_low: 0  # 低市值币安不存在，代币总数小于等于1
+okx_contract_slip_c_1_low: 0  # 低市值币安不存在，代币总数小于等于1
+okx_contract_number_d_1_low: 0  # 低市值币安不存在，代币总数大于1
+okx_contract_slip_d_1_low: 0  # 低市值币安不存在，代币总数大于1
+# BYBIT永续合约
+bybit_contract_number_c_high: 0  # 高市值币安不存在，代币总数小于等于1
+bybit_contract_slip_c_high: 0  # 高市值币安不存在，代币总数小于等于1
+bybit_contract_number_d_high: 0  # 高市值币安不存在，代币总数大于1
+bybit_contract_slip_d_high: 0  # 高市值币安不存在，代币总数大于1
+bybit_contract_number_c_medium: 0  # 中市值币安不存在，代币总数小于等于1
+bybit_contract_slip_c_medium: 0  # 中市值币安不存在，代币总数小于等于1
+bybit_contract_number_d_medium: 0  # 中市值币安不存在，代币总数大于1
+bybit_contract_slip_d_medium: 0  # 中市值币安不存在，代币总数大于1
+bybit_contract_number_c_low: 0  # 低市值币安不存在，代币总数小于等于1
+bybit_contract_slip_c_low: 0  # 低市值币安不存在，代币总数小于等于1
+bybit_contract_number_d_low: 0  # 低市值币安不存在，代币总数大于1
+bybit_contract_slip_d_low: 0  # 低市值币安不存在，代币总数大于1
+
+
+# upbit 韩元上新
+# 币安有这个币
+map_high_d: 0 # 高市值
+map_medium_d: 0 # 中市值
+map_low_d: 0 # 低市值
+# 币安
+binance_number_c_high: 0  # 高市值币安存在，代币总数小于等于1
+binance_slip_c_high: 0  # 高市值币安存在，代币总数小于等于1
+binance_number_d_high: 0  # 高市值币安存在，代币总数大于1
+binance_slip_d_high: 0  # 高市值币安存在，代币总数大于1
+binance_number_c_medium: 0  # 中市值币安存在，代币总数小于等于1
+binance_slip_c_medium: 0  # 中市值币安存在，代币总数小于等于1
+binance_number_d_medium: 0  # 中市值币安存在，代币总数大于1
+binance_slip_d_medium: 0  # 中市值币安存在，代币总数大于1
+binance_number_c_low: 0  # 低市值币安存在，代币总数小于等于1
+binance_slip_c_low: 0  # 低市值币安存在，代币总数小于等于1
+binance_number_d_low: 0  # 低市值币安存在，代币总数大于1
+binance_slip_d_low: 0  # 低市值币安存在，代币总数大于1
+# 币安没有这个币
+map_high_e: 0 # 高市值
+map_medium_e: 0 # 中市值
+map_low_e: 0 # 低市值
+# OK
+ok_number_e_high: 0  # 高市值币安存在，代币总数小于等于1
+ok_slip_e_high: 0  # 高市值币安存在，代币总数小于等于1
+ok_number_f_high: 0  # 高市值币安存在，代币总数大于1
+ok_slip_f_high: 0  # 高市值币安存在，代币总数大于1
+ok_number_e_medium: 0  # 中市值币安存在，代币总数小于等于1
+ok_slip_e_medium: 0  # 中市值币安存在，代币总数小于等于1
+ok_number_f_medium: 0  # 中市值币安存在，代币总数大于1
+ok_slip_f_medium: 0  # 中市值币安存在，代币总数大于1
+ok_number_e_low: 0  # 低市值币安存在，代币总数小于等于1
+ok_slip_e_low: 0  # 低市值币安存在，代币总数小于等于1
+ok_number_f_low: 0  # 低市值币安存在，代币总数大于1
+ok_slip_f_low: 0  # 低市值币安存在，代币总数大于1
+# 备
+ok_number_e_1_high: 0  # 高市值币安存在，代币总数小于等于1
+ok_slip_e_1_high: 0  # 高市值币安存在，代币总数小于等于1
+ok_number_f_1_high: 0  # 高市值币安存在，代币总数大于1
+ok_slip_f_1_high: 0  # 高市值币安存在，代币总数大于1
+ok_number_e_1_medium: 0  # 中市值币安存在，代币总数小于等于1
+ok_slip_e_1_medium: 0  # 中市值币安存在，代币总数小于等于1
+ok_number_f_1_medium: 0  # 中市值币安存在，代币总数大于1
+ok_slip_f_1_medium: 0  # 中市值币安存在，代币总数大于1
+ok_number_e_1_low: 0  # 低市值币安存在，代币总数小于等于1
+ok_slip_e_1_low: 0  # 低市值币安存在，代币总数小于等于1
+ok_number_f_1_low: 0  # 低市值币安存在，代币总数大于1
+ok_slip_f_1_low: 0  # 低市值币安存在，代币总数大于1
+# bybit
+bybit_number_e_high: 0  # 高市值币安存在，代币总数小于等于1
+bybit_slip_e_high: 0  # 高市值币安存在，代币总数小于等于1
+bybit_number_f_high: 0  # 高市值币安存在，代币总数大于1
+bybit_slip_f_high: 0  # 高市值币安存在，代币总数大于1
+bybit_number_e_medium: 0  # 中市值币安存在，代币总数小于等于1
+bybit_slip_e_medium: 0  # 中市值币安存在，代币总数小于等于1
+bybit_number_f_medium: 0  # 中市值币安存在，代币总数大于1
+bybit_slip_f_medium: 0  # 中市值币安存在，代币总数大于1
+bybit_number_e_low: 0  # 低市值币安存在，代币总数小于等于1
+bybit_slip_e_low: 0  # 低市值币安存在，代币总数小于等于1
+bybit_number_f_low: 0  # 低市值币安存在，代币总数大于1
+bybit_slip_f_low: 0  # 低市值币安存在，代币总数大于1
+# GATE
+gate_number_e_high: 0  # 高市值币安存在，代币总数小于等于1
+gate_slip_e_high: 0  # 高市值币安存在，代币总数小于等于1
+gate_number_f_high: 0  # 高市值币安存在，代币总数大于1
+gate_slip_f_high: 0  # 高市值币安存在，代币总数大于1
+gate_number_e_medium: 0  # 中市值币安存在，代币总数小于等于1
+gate_slip_e_medium: 0  # 中市值币安存在，代币总数小于等于1
+gate_number_f_medium: 0  # 中市值币安存在，代币总数大于1
+gate_slip_f_medium: 0  # 中市值币安存在，代币总数大于1
+gate_number_e_low: 0  # 低市值币安存在，代币总数小于等于1
+gate_slip_e_low: 0  # 低市值币安存在，代币总数小于等于1
+gate_number_f_low: 0  # 低市值币安存在，代币总数大于1
+gate_slip_f_low: 0  # 低市值币安存在，代币总数大于1
+# OKX永续合约
+okx_contract_number_e_high: 0  # 高市值币安存在，代币总数小于等于1
+okx_contract_slip_e_high: 0  # 高市值币安存在，代币总数小于等于1
+okx_contract_number_f_high: 0  # 高市值币安存在，代币总数大于1
+okx_contract_slip_f_high: 0  # 高市值币安存在，代币总数大于1
+okx_contract_number_e_medium: 0  # 中市值币安存在，代币总数小于等于1
+okx_contract_slip_e_medium: 0  # 中市值币安存在，代币总数小于等于1
+okx_contract_number_f_medium: 0  # 中市值币安存在，代币总数大于1
+okx_contract_slip_f_medium: 0  # 中市值币安存在，代币总数大于1
+okx_contract_number_e_low: 0  # 低市值币安存在，代币总数小于等于1
+okx_contract_slip_e_low: 0  # 低市值币安存在，代币总数小于等于1
+okx_contract_number_f_low: 0  # 低市值币安存在，代币总数大于1
+okx_contract_slip_f_low: 0  # 低市值币安存在，代币总数大于1
+# 备
+okx_contract_number_e_1_high: 0  # 高市值币安存在，代币总数小于等于1
+okx_contract_slip_e_1_high: 0  # 高市值币安存在，代币总数小于等于1
+okx_contract_number_f_1_high: 0  # 高市值币安存在，代币总数大于1
+okx_contract_slip_f_1_high: 0  # 高市值币安存在，代币总数大于1
+okx_contract_number_e_1_medium: 0  # 中市值币安存在，代币总数小于等于1
+okx_contract_slip_e_1_medium: 0  # 中市值币安存在，代币总数小于等于1
+okx_contract_number_f_1_medium: 0  # 中市值币安存在，代币总数大于1
+okx_contract_slip_f_1_medium: 0  # 中市值币安存在，代币总数大于1
+okx_contract_number_e_1_low: 0  # 低市值币安存在，代币总数小于等于1
+okx_contract_slip_e_1_low: 0  # 低市值币安存在，代币总数小于等于1
+okx_contract_number_f_1_low: 0  # 低市值币安存在，代币总数大于1
+okx_contract_slip_f_1_low: 0  # 低市值币安存在，代币总数大于1
+# BYBIT永续合约
+bybit_contract_number_e_high: 0  # 高市值币安存在，代币总数小于等于1
+bybit_contract_slip_e_high: 0  # 高市值币安存在，代币总数小于等于1
+bybit_contract_number_f_high: 0  # 高市值币安存在，代币总数大于1
+bybit_contract_slip_f_high: 0  # 高市值币安存在，代币总数大于1
+bybit_contract_number_e_medium: 0  # 中市值币安存在，代币总数小于等于1
+bybit_contract_slip_e_medium: 0  # 中市值币安存在，代币总数小于等于1
+bybit_contract_number_f_medium: 0  # 中市值币安存在，代币总数大于1
+bybit_contract_slip_f_medium: 0  # 中市值币安存在，代币总数大于1
+bybit_contract_number_e_low: 0  # 低市值币安存在，代币总数小于等于1
+bybit_contract_slip_e_low: 0  # 低市值币安存在，代币总数小于等于1
+bybit_contract_number_f_low: 0  # 低市值币安存在，代币总数大于1
+bybit_contract_slip_f_low: 0  # 低市值币安存在，代币总数大于1
+
+
+
+# upbit 非韩元上新
+# 币安有这个币
+map_high_f: 0 # 高市值
+map_medium_f: 0 # 中市值
+map_low_f: 0 # 低市值
+# 币安
+binance_number_e_high: 0  # 高市值币安存在，代币总数小于等于1
+binance_slip_e_high: 0  # 高市值币安存在，代币总数小于等于1
+binance_number_f_high: 0  # 高市值币安存在，代币总数大于1
+binance_slip_f_high: 0  # 高市值币安存在，代币总数大于1
+binance_number_e_medium: 0  # 中市值币安存在，代币总数小于等于1
+binance_slip_e_medium: 0  # 中市值币安存在，代币总数小于等于1
+binance_number_f_medium: 0  # 中市值币安存在，代币总数大于1
+binance_slip_f_medium: 0  # 中市值币安存在，代币总数大于1
+binance_number_e_low: 0  # 低市值币安存在，代币总数小于等于1
+binance_slip_e_low: 0  # 低市值币安存在，代币总数小于等于1
+binance_number_f_low: 0  # 低市值币安存在，代币总数大于1
+binance_slip_f_low: 0  # 低市值币安存在，代币总数大于1
+# 币安没有这个币
+map_high_g: 0 # 高市值
+map_medium_g: 0 # 中市值
+map_low_g: 0 # 低市值
+# OK
+ok_number_g_high: 0  # 高市值币安存在，代币总数小于等于1
+ok_slip_g_high: 0  # 高市值币安存在，代币总数小于等于1
+ok_number_h_high: 0  # 高市值币安存在，代币总数大于1
+ok_slip_h_high: 0  # 高市值币安存在，代币总数大于1
+ok_number_g_medium: 0  # 中市值币安存在，代币总数小于等于1
+ok_slip_g_medium: 0  # 中市值币安存在，代币总数小于等于1
+ok_number_h_medium: 0  # 中市值币安存在，代币总数大于1
+ok_slip_h_medium: 0  # 中市值币安存在，代币总数大于1
+ok_number_g_low: 0  # 低市值币安存在，代币总数小于等于1
+ok_slip_g_low: 0  # 低市值币安存在，代币总数小于等于1
+ok_number_h_low: 0  # 低市值币安存在，代币总数大于1
+ok_slip_h_low: 0  # 低市值币安存在，代币总数大于1
+# 备
+ok_number_g_1_high: 0  # 高市值币安存在，代币总数小于等于1
+ok_slip_g_1_high: 0  # 高市值币安存在，代币总数小于等于1
+ok_number_h_1_high: 0  # 高市值币安存在，代币总数大于1
+ok_slip_h_1_high: 0  # 高市值币安存在，代币总数大于1
+ok_number_g_1_medium: 0  # 中市值币安存在，代币总数小于等于1
+ok_slip_g_1_medium: 0  # 中市值币安存在，代币总数小于等于1
+ok_number_h_1_medium: 0  # 中市值币安存在，代币总数大于1
+ok_slip_h_1_medium: 0  # 中市值币安存在，代币总数大于1
+ok_number_g_1_low: 0  # 低市值币安存在，代币总数小于等于1
+ok_slip_g_1_low: 0  # 低市值币安存在，代币总数小于等于1
+ok_number_h_1_low: 0  # 低市值币安存在，代币总数大于1
+ok_slip_h_1_low: 0  # 低市值币安存在，代币总数大于1
+# bybit
+bybit_number_g_high: 0  # 高市值币安存在，代币总数小于等于1
+bybit_slip_g_high: 0  # 高市值币安存在，代币总数小于等于1
+bybit_number_h_high: 0  # 高市值币安存在，代币总数大于1
+bybit_slip_h_high: 0  # 高市值币安存在，代币总数大于1
+bybit_number_g_medium: 0  # 中市值币安存在，代币总数小于等于1
+bybit_slip_g_medium: 0  # 中市值币安存在，代币总数小于等于1
+bybit_number_h_medium: 0  # 中市值币安存在，代币总数大于1
+bybit_slip_h_medium: 0  # 中市值币安存在，代币总数大于1
+bybit_number_g_low: 0  # 低市值币安存在，代币总数小于等于1
+bybit_slip_g_low: 0  # 低市值币安存在，代币总数小于等于1
+bybit_number_h_low: 0  # 低市值币安存在，代币总数大于1
+bybit_slip_h_low: 0  # 低市值币安存在，代币总数大于1
+# GATE
+gate_number_g_high: 0  # 高市值币安存在，代币总数小于等于1
+gate_slip_g_high: 0  # 高市值币安存在，代币总数小于等于1
+gate_number_h_high: 0  # 高市值币安存在，代币总数大于1
+gate_slip_h_high: 0  # 高市值币安存在，代币总数大于1
+gate_number_g_medium: 0  # 中市值币安存在，代币总数小于等于1
+gate_slip_g_medium: 0  # 中市值币安存在，代币总数小于等于1
+gate_number_h_medium: 0  # 中市值币安存在，代币总数大于1
+gate_slip_h_medium: 0  # 中市值币安存在，代币总数大于1
+gate_number_g_low: 0  # 低市值币安存在，代币总数小于等于1
+gate_slip_g_low: 0  # 低市值币安存在，代币总数小于等于1
+gate_number_h_low: 0  # 低市值币安存在，代币总数大于1
+gate_slip_h_low: 0  # 低市值币安存在，代币总数大于1
+# OKX永续合约
+okx_contract_number_g_high: 0  # 高市值币安存在，代币总数小于等于1
+okx_contract_slip_g_high: 0  # 高市值币安存在，代币总数小于等于1
+okx_contract_number_h_high: 0  # 高市值币安存在，代币总数大于1
+okx_contract_slip_h_high: 0  # 高市值币安存在，代币总数大于1
+okx_contract_number_g_medium: 0  # 中市值币安存在，代币总数小于等于1
+okx_contract_slip_g_medium: 0  # 中市值币安存在，代币总数小于等于1
+okx_contract_number_h_medium: 0  # 中市值币安存在，代币总数大于1
+okx_contract_slip_h_medium: 0  # 中市值币安存在，代币总数大于1
+okx_contract_number_g_low: 0  # 低市值币安存在，代币总数小于等于1
+okx_contract_slip_g_low: 0  # 低市值币安存在，代币总数小于等于1
+okx_contract_number_h_low: 0  # 低市值币安存在，代币总数大于1
+okx_contract_slip_h_low: 0  # 低市值币安存在，代币总数大于1
+# 备
+okx_contract_number_g_1_high: 0  # 高市值币安存在，代币总数小于等于1
+okx_contract_slip_g_1_high: 0  # 高市值币安存在，代币总数小于等于1
+okx_contract_number_h_1_high: 0  # 高市值币安存在，代币总数大于1
+okx_contract_slip_h_1_high: 0  # 高市值币安存在，代币总数大于1
+okx_contract_number_g_1_medium: 0  # 中市值币安存在，代币总数小于等于1
+okx_contract_slip_g_1_medium: 0  # 中市值币安存在，代币总数小于等于1
+okx_contract_number_h_1_medium: 0  # 中市值币安存在，代币总数大于1
+okx_contract_slip_h_1_medium: 0  # 中市值币安存在，代币总数大于1
+okx_contract_number_g_1_low: 0  # 低市值币安存在，代币总数小于等于1
+okx_contract_slip_g_1_low: 0  # 低市值币安存在，代币总数小于等于1
+okx_contract_number_h_1_low: 0  # 低市值币安存在，代币总数大于1
+okx_contract_slip_h_1_low: 0  # 低市值币安存在，代币总数大于1
+# BYBIT永续合约
+bybit_contract_number_g_high: 0  # 高市值币安存在，代币总数小于等于1
+bybit_contract_slip_g_high: 0  # 高市值币安存在，代币总数小于等于1
+bybit_contract_number_h_high: 0  # 高市值币安存在，代币总数大于1
+bybit_contract_slip_h_high: 0  # 高市值币安存在，代币总数大于1
+bybit_contract_number_g_medium: 0  # 中市值币安存在，代币总数小于等于1
+bybit_contract_slip_g_medium: 0  # 中市值币安存在，代币总数小于等于1
+bybit_contract_number_h_medium: 0  # 中市值币安存在，代币总数大于1
+bybit_contract_slip_h_medium: 0  # 中市值币安存在，代币总数大于1
+bybit_contract_number_g_low: 0  # 低市值币安存在，代币总数小于等于1
+bybit_contract_slip_g_low: 0  # 低市值币安存在，代币总数小于等于1
+bybit_contract_number_h_low: 0  # 低市值币安存在，代币总数大于1
+bybit_contract_slip_h_low: 0  # 低市值币安存在，代币总数大于1
